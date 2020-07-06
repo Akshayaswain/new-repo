@@ -7,5 +7,6 @@ int id;
 Akshay(String empname,int id){
 	   this.empname=empname;
 	   this.id=id;
+	   System.out.println("hello");
    }
 }
